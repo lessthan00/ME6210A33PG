@@ -1,17 +1,34 @@
 # ME6210A33PG borad change from AMS1117-3V3
 
-[ME6210A33PG](https://www.jlc-smt.com/lcsc/detail?componentCode=C85233)   
+[ME6210A33PG](https://www.jlc-smt.com/lcsc/detail?componentCode=C85233)  
 LDO  
 VIN 18V  
 VOUT 3.3V  
 IOUT 500mA  
-package SOT-89  
+package SOT-89-3  
 IQ 2.5uA  
 VD 260mV@200mA  
 
 引脚定义  
 1-GND  
 2-VIN  
+3-VOUT  
+
+## HT7550-1 board = ME6210A33PG  
+
+[HT7550-1](https://www.jlc-smt.com/lcsc/detail?componentCode=C5346140)
+LDO  
+VIN 28V  
+VOUT 5V  
+IOUT 150mA  
+package SOT-89-3
+accuracy 2%
+IQ 4uA
+VD 520mA@100mA  
+
+引脚定义  
+1-GND  
+2-IN  
 3-VOUT  
 
 ## ME6206A33XG  borad change from AMS1117-3V3
