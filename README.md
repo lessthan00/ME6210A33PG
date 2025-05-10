@@ -29,7 +29,52 @@ VD 520mA@100mA
 引脚定义  
 1-GND  
 2-IN  
-3-VOUT  
+3-VOUT 
+
+## RT9013-33GB
+
+[RT9013-33GB](https://www.jlc-smt.com/lcsc/detail?componentCode=C47773)  
+LDO  
+VIN 5.5V  
+VOUT 3.3V  
+IOUT 0.5A  
+package SOT-23-5  
+accuracy 2%  
+IQ 50uA  
+VD 250mV@500mA  
+ENL 0.6V  
+ENH 1.6V  
+IEN 0.1uA -> 100K电阻  
+  
+引脚定义  
+1-VIN  
+2-GND  
+3-EN  
+4-NC  
+5-VOUT  
+
+## ME6211C33M5G-N board = RT9013-33GB  
+
+[ME6211C33M5G-N](https://www.jlc-smt.com/lcsc/detail?componentCode=C82942)  
+LDO  
+VIN 6V  
+VOUT 3.3V  
+IOUT 300mA  
+package SOT-23-5  
+accuracy 2%  
+IQ 60uA  
+VD 260mV@200mA  
+ENL 0.5V  
+ENH 1V  
+IEN 应该是uA -> 100K电阻  
+Vn 50uVrms  
+  
+引脚定义  
+1-VIN  
+2-GND  
+3-EN  
+4-NC  
+5-VOUT  
 
 ## ME6206A33XG  borad change from AMS1117-3V3
   
