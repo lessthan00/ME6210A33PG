@@ -1,19 +1,18 @@
 # ME6210A33PG borad change from AMS1117-3V3
 
-[ME6210A33PG](https://www.jlc-smt.com/lcsc/detail?componentCode=C85233)  
-LDO
-VIN 18V
-VOUT 3.3V
-IOUT 500mA
-package SOT-89
-IQ 2.5uA
-VD 260mV@200mA
+[ME6210A33PG](https://www.jlc-smt.com/lcsc/detail?componentCode=C85233)   
+LDO  
+VIN 18V  
+VOUT 3.3V  
+IOUT 500mA  
+package SOT-89  
+IQ 2.5uA  
+VD 260mV@200mA  
 
-引脚定义
-1-GND
-2-VIN
-3-VOUT
-
+引脚定义  
+1-GND  
+2-VIN  
+3-VOUT  
 
 ## ME6206A33XG  borad change from AMS1117-3V3
   
